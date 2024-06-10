@@ -9,7 +9,7 @@ Curso ministrado pela professora Camila Cavalcante em nome da <strong> <a href="
 - [x] Java JDK 8 ou superior
 - [x] IDE para desenvolvimento Java
 
-<h2> 📚 Ementa</h2>
+<h2> 📚 Tópicos do Curso</h2>
 <ol>
     <li>Visão Geral</li>
     <li>Pilha de Execução de um programa Java</li>
