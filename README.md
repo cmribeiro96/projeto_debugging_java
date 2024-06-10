@@ -38,10 +38,6 @@ Curso ministrado pela professora Camila Cavalcante em nome da <strong> <a href="
     </li>
 </ul>
 
-<div align="center">
-    <img src="https://media1.giphy.com/media/9o9dh1JRGThC1qxGTJ/giphy.gif?cid=ecf05e47e4eg6hhx3ku1sec3j55c616p31sgn63m6kf0kcmu&rid=giphy.gif&ct=g" width="600" height="400">
-</div>
-
 <h2>Depuração/Debugging</h2>
 <p>Linguagens de alto nível tornam a depuração mais fácil, pois fornecem mais ferramentas para identificar erros, como o tratamento de exceções. </p>
 <p>Os depuradores funcionam assumindo o controle do tempo de execução de um programa e permitindo que você o observe e controle. Para fazer isso, ele mostra a pilha do programa e permite que você a atravesse em qualquer direção. Quando você está em um depurador, obtém uma imagem mais completa de um quadro de pilha do que quando olha os rastreamentos de pilha em uma mensagem de log.</p>
